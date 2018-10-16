@@ -7,3 +7,6 @@ Currently Supported Languages (Windows, Bloomberg Professional Terminal, Desktop
   - Java
   - .NET
   - Python (Required C++ Library Locally Installed)
+
+Existing project to emulate Bloomberg API, could be useful in testing/debugging:
+  https://github.com/Robinson664/bemu
